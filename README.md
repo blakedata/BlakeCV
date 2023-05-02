@@ -1,6 +1,6 @@
 # **Skills Portfolio by Blake Kelly Oates**
 ## **Personal Projects**
-My goal for this repository is to provide a quick overview of my technical skills. I have opted to showcase short analyses that I created by myself, rather than including work such as the famous Kaggle Titanic Dataset :smile: 
+My goal for this repository is to provide a quick overview of my technical skills. I have opted to provide some short analyses that I created by myself, rather than including work such as the famous Kaggle Titanic Dataset :smile: So please consider this to be a "Proof of Competency" rather than an exhaustive showcase of my skills.
 ### **Exploration and Analysis of Google Merchandise Store (SQL)**
 [GitHub Link](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/MerchandiseStoreAnalysis.sql). [Presentation Slides](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/GoogleMerchandiseStoreAssessment.pdf).
 

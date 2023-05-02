@@ -1,9 +1,8 @@
 # **Skills Portfolio by Blake Kelly Oates**
 ## **Personal Projects**
 ### **Exploration and Analysis of Google Merchandise Store (SQL)**
-
-Using a publicly available Google Analytics Dataset I sought to answer questions that I feel replicate the tasks I would need to perform as a data analyst. I also created a simple slide deck to help further showcase these techniques.
 [GitHub Link](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/MerchandiseStoreAnalysis.sql). [Presentation Slides](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/GoogleMerchandiseStoreAssessment.pdf).
+Using a publicly available Google Analytics Dataset I sought to answer questions that I feel replicate the tasks I would need to perform as a data analyst. I also created a simple slide deck to help further showcase these techniques.
 
 ### **How Tackling Affects Premier League Football Performance (Python)**
 [GitHub Link](https://github.com/blakedata/BlakeCV/blob/093d38019aed589bb7acd868a2601668b7bbe0a5/How%20Tackling%20Affects%20Premier%20League%20Football%20Performance.ipynb).

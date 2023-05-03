@@ -2,7 +2,7 @@
 ## **Personal Projects**
 My goal for this repository is to provide a quick overview of my technical skills. I have opted to provide some short analyses that I created by myself, rather than including work such as the famous Kaggle Titanic Dataset :smile: So please consider this to be a "Proof of Competency" rather than an exhaustive showcase of my skills.
 ### **Exploration and Analysis of Google Merchandise Store (SQL) :heavy_dollar_sign:**
-[GitHub Link](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/MerchandiseStoreAnalysis.sql). [Presentation Slides](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/GoogleMerchandiseStoreAssessment.pdf).
+[GitHub Link](https://github.com/blakedata/BlakeCV/blob/b63bc683df0ef624e9fd4dea7c03c1c60fe275f6/MerchandiseStoreAnalysis.sql). [Presentation Slides](https://github.com/blakedata/BlakeCV/blob/9d1d99b8d9186ade1a1c60b47e202eeb72d0ecb2/GoogleMerchandiseStoreAssessment.pdf).
 
 Using a publicly available Google Analytics Dataset I sought to answer questions that I feel replicate the tasks I would need to perform as a data analyst. I also created a slide deck to help further showcase these techniques.
 
